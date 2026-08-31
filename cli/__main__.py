@@ -1,0 +1,10 @@
+"""
+Sentinel CLI entry point.
+
+Run with: python -m cli
+"""
+
+from .commands import main
+
+if __name__ == "__main__":
+    raise SystemExit(main())
