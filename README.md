@@ -12,6 +12,7 @@ This repository implements a local fraud-triage workflow for the Sentinel Bank.
 - starts an asynchronous queue sweep, then exposes status and result collection
 
 ## Video Link
+https://youtu.be/n3mS8A03m4g?si=vjWtPzJDjYUaCB2x
 
 ## Run locally
 
